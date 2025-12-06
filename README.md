@@ -1,18 +1,18 @@
-# Data Storytelling - E-commerce Customer Retention Rate
+# Data Storytelling - Financial Services Customer Acquisition Cost (CAC)
 
 **Submitted by:** 22f3000162@ds.study.iitm.ac.in
 
 ## Executive Summary
 
-Average Performance: 72.58
+Average Performance: 230.59
 
 ## Recommended Solution
 
-**implement targeted retention campaigns**
+**optimize digital marketing channels**
 
 ## Quarterly Data
 
-- **Q1**: 65.36
-- **Q2**: 73.72
-- **Q3**: 75.96
-- **Q4**: 75.3
+- **Q1**: 223.36
+- **Q2**: 231.72
+- **Q3**: 233.96
+- **Q4**: 233.3
