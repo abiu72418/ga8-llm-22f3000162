@@ -1,4 +1,5 @@
 # Data Analysis for Financial Services
+# Submitted by: 22f3000162@ds.study.iitm.ac.in
 
 import pandas as pd
 
@@ -8,6 +9,6 @@ data = {
 }
 
 df = pd.DataFrame(data)
-average = df['Value'].mean()
+average = df['Value'].mean();
 print(f"Average: {average:.2f}")
 print("Recommendation: optimize digital marketing channels")
